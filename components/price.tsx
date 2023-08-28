@@ -1,5 +1,7 @@
 import clsx from 'clsx';
 
+// PRICE
+
 const Price = ({
   amount,
   className,
