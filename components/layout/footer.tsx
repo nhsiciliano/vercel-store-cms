@@ -1,6 +1,6 @@
 import FooterMenu from 'components/layout/footer-menu';
 import LogoSquare from 'components/logo-square';
-import { getMenu } from 'lib/shopify/index';
+import { getMenu } from 'lib/shopify';
 import Link from 'next/link';
 import { Suspense } from 'react';
 
